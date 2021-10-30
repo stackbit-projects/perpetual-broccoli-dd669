@@ -15,9 +15,7 @@ const LogoSection = (props) => {
         {testimonials.map((testimonial, index) => (
           <div className="p-6" key={index} data-sb-field-path={`.${index}`}>
             <p>{testimonial.content{</p>
-            <h2 className="text-sm text-gray-400" data-sb-field-path=".name">
-              {logo.name}
-            </h2>
+            <p>-{testimonial.author}</p>
           </div>
         ))}
       </div>
