@@ -29,6 +29,7 @@ sections:
             fontWeight: 400
             fontStyle: normal
             textAlign: center
+        content: This movie is great
     colors: colors-a
     subtitle: What our customers say about us
     styles:
