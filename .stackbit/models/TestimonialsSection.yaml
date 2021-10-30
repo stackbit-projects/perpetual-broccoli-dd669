@@ -4,7 +4,7 @@ groups:
   - sectionComponent
 fields:
   - type: string
-    name: content
+    name: title
   - type: list
     name: testimonials
     items:
