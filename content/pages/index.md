@@ -30,6 +30,7 @@ sections:
             fontStyle: normal
             textAlign: center
         content: This movie is great
+        author: Jane Smith
     colors: colors-a
     subtitle: What our customers say about us
     styles:
