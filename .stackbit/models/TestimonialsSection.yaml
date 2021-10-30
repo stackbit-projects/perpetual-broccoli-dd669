@@ -6,4 +6,4 @@ fields:
   - type: string
     name: content
   - type: string
-    name: content
+    name: author
