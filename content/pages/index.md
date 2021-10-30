@@ -32,7 +32,7 @@ sections:
         content: This movie is great
         author: Jane Smith
       - content: Here is another positive review
-        author: lorem-ipsum
+        author: 'Bob '
     colors: colors-a
     subtitle: What our customers say about us
     styles:
