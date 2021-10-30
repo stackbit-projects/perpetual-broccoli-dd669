@@ -7,8 +7,8 @@ const TestimonialsSection = (props) => {
       <div
         className="flex justify-center items-center"
         data-sb-field-path=".logos">
-        <p></p>
-
+        <p>{content}</p>
+        <p>-{author}</p>
       </div>
     </div>
   );
