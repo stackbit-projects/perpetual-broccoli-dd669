@@ -2,7 +2,7 @@
 title: Home
 layout: PageLayout
 sections:
-  - title: Testimonials
+  - title: Reviews
     testimonials:
       - quote: >-
           It’s great to see someone taking action while still maintaining a
