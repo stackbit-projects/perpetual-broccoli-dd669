@@ -31,6 +31,8 @@ sections:
             textAlign: center
         content: This movie is great
         author: Jane Smith
+      - content: lorem-ipsum
+        author: lorem-ipsum
     colors: colors-a
     subtitle: What our customers say about us
     styles:
