@@ -5,5 +5,12 @@ groups:
 fields:
   - type: string
     name: content
-  - type: string
-    name: author
+  - type: list
+    name: logos
+    items:
+      type: object
+      fields:
+        - type: string
+          name: name
+        - type: image
+          name: image
