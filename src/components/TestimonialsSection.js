@@ -14,4 +14,4 @@ const TestimonialsSection = (props) => {
   );
 };
 
-export default LogoSection;
+export default TestimonialsSection;
